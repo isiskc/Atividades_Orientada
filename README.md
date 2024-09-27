@@ -1,2 +1,4 @@
 # Atividades_Orientada
-Repositorio para as atividades orientadas de programacao da PUC Minas
+Isis Kanitar 
+Iniciando na area de desenvolvimento de software, programando inicialmente em HTML5 e CSS3. 
+
